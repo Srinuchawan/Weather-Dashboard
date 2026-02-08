@@ -189,7 +189,7 @@ button:hover {
 }
 
 /* Responsive */
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   input {
     width: 100%;
   }
@@ -201,4 +201,4 @@ button:hover {
   .card {
     margin: 0 auto;
   }
-}
+} */
